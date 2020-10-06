@@ -1,9 +1,10 @@
 # general information
-~Higlight~
+`Higlight`
 **Bold**
-##smaller title
-###smaller title
-####smaller title
+## smaller title
+### smaller title
+#### smaller title
+
 ~~~js
 const walkDir = require('./src');
 const objOps = require('./src/objOps');
